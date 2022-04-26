@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aymene Berriche</h1>
-<h3 align="center">Computer Science Student, GitHub Campus Expert and a AI enthusiast</h3>
+<h3 align="center">Computer Science Student, GitHub Campus Expert and an AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen311&label=Profile%20views&color=0e75b6&style=flat" alt="aymen311" /> </p>
 
