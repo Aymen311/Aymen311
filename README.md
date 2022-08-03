@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [aymene.hashnode.dev](aymene.hashnode.dev)
 
-- 💬 Ask me about anything with **Machine learning, NLP and Vision.**
+- 💬 Ask me about anything related to **Machine learning, NLP and Vision.**
 
 - 📫 How to reach me **ja_berriche@esi.dz**
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1766vZOzlLaY9W4SAbh5zh0qSJ1ZdFVnu/view?usp=sharing)
 
-- ⚡ Fun fact **A cup of tea is all what need**
+- ⚡ Fun fact **A cup of tea is all what I need**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
