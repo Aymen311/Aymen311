@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1766vZOzlLaY9W4SAbh5zh0qSJ1ZdFVnu/view?usp=sharing)
 
-- ⚡ Fun fact **A cup of tea is all what I need**
+- ⚡ Fun fact **A cup of tea is all I need**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
